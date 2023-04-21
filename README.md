@@ -42,11 +42,12 @@ public class Boa {
 
 See the screenshot given below to see the tasks done till now:
 
-<Screenshot>
+![s1](https://user-images.githubusercontent.com/67496808/233610831-93079ced-4c1c-46f0-897f-6c97926c7fb9.png)
+
 
 ### Creating a JUnit Test case 
+![s2](https://user-images.githubusercontent.com/67496808/233610859-7b4fb116-947c-49ab-b42f-8abd87852a38.png)
 
-<screenshot>
 
 4. Method annotated with @Before will be run before each test executes.
 
@@ -128,7 +129,8 @@ public class BoaTest {
 
 7. Running the two test cases - isHealthy() and fitsInCage()
 
-<screenshot>
+![s3](https://user-images.githubusercontent.com/67496808/233610922-fd3264b8-a557-47e3-b5d8-99131e2dfc1b.png)
+
 
 8. Adding a new method to the Boa class
 
@@ -178,11 +180,12 @@ After running output:
 
 Successful run:
 
-<screenshot>
+![s5](https://user-images.githubusercontent.com/67496808/233610953-20ef4b25-49c0-4a88-b5b8-7bc14622d5e8.png)
+
 
 Unsuccessful run:
 
-<screenshot>
+![s4](https://user-images.githubusercontent.com/67496808/233610989-d8b21c1a-2a5d-4f5d-a7e9-a5d63e202331.png)
 
 
 
